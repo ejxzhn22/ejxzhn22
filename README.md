@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
-# Hi! 👋
+
+<h2 align="center"> Hi! 👋 </h2>
 
 <h1 align="center">🌱TECH🌱</h1>
 
