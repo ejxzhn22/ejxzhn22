@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 	
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 
