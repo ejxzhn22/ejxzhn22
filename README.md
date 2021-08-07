@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ✨------------✨
 <p align="center">
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>&nbsp
-<a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/NAVER-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>
+<a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/Nintendo-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>
 </p>
 
 
