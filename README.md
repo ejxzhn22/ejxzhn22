@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
 <h3 align="center"> Hi! 👋 </h3>
+<br> <br>
 <h3 align="center">🌱TECH🌱</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -31,8 +32,6 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">✨CONTACT✨</h3>
-<br>
-
 <p align="center">
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
 &nbsp
