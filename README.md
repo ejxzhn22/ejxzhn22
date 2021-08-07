@@ -1,4 +1,4 @@
-
+### Hi! 👋
 <!--
 **ejxzhn22/ejxzhn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">✨------------✨</h3>
+<h3 align="center">✨CONTACT✨</h3>
 <br>
 
 <p align="center">
