@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=solarized)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22&layout=solarized-light)](https://github.com/ejxzhn22/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=solarized-light)](https://github.com/ejxzhn22/github-readme-stats)
 
