@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header&text=SUJIN%20KIM&fontSize=60&animation=fadeIn&fontWeight=30)
-### Hi! 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
+# Hi! 👋
 
 <h1 align="center">🌱TECH🌱</h1>
 
