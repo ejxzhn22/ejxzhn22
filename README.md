@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=f4bbbb&height=300&section=header&text=🌱SUJIN%20KIM🌱&fontSize=40&width=900)
+![header](https://capsule-render.vercel.app/api?type=wave&color=f4bbbb&height=300&section=header&text=🌱SUJIN%20KIM🌱&fontSize=40)
 
 
 <h1 align="center">🌈TECH</h1>
