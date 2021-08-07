@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 </p>
 
 
+<br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=solarized)
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
-	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/ejxzhn22/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22&layout=solarized-light)](https://github.com/ejxzhn22/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=compact)](https://github.com/ejxzhn22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=solarized-light)](https://github.com/ejxzhn22/github-readme-stats)
+
 
 
 
