@@ -35,14 +35,12 @@ Here are some ideas to get you started:
 ✨------------✨
 <p align="center">
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>&nbsp
-
-  <a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/Nintendo-00A95C?style=flat-square&logo=Nintendo&logoColor=white&link=jink9525@naver.com"/></a>
+<a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/Nintendo-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>
 </p>
 
-<p align="center">
+
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</p>
 
