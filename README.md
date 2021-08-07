@@ -35,15 +35,9 @@ Here are some ideas to get you started:
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/ejxzhn22/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=compact)](https://github.com/ejxzhn22/github-readme-stats)
 
-<a  href ="https://github.com/anuraghazra/github-readme-stats"> 
-  <img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
- </a> 
-<a  href =" https://github.com/anuraghazra/convoychat " > 
-  <img  align ="center" src ="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
- </a>
 
 
