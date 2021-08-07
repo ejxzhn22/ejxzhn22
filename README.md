@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2 align="center">🌈TECH</h2>
 
 <p align="center">
-<img style="size: 20px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img style="height: 15px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <br/>
