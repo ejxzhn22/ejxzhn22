@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=f4bbbb&height=300&section=header&text=🌱SUJIN%20KIM🌱&fontSize=40)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
-	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="center">🌈TECH</h2>
+<h1 align="center">🌈TECH</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -33,5 +28,12 @@ Here are some ideas to get you started:
 &nbsp<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </p>
+
+
+
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
+	
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/anuraghazra/github-readme-stats)
 
 
