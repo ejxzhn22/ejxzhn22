@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
 -->
-<h2> Hi! I'M SUJIN 🌼 </h2>
+<h2>  SUJIN 🌼 </h2>
 <br> 
 <h3 align="center">🌱MY SKILLS🌱</h3>
 <p align="center">
