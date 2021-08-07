@@ -1,4 +1,4 @@
-### Hi! 👋
+
 <!--
 **ejxzhn22/ejxzhn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header&text=SUJIN%20KIM&fontSize=60&animation=fadeIn&fontWeight=30)
-
+### Hi! 👋
 
 <h1 align="center">🌱TECH🌱</h1>
 
