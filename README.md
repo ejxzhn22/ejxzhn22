@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=solarized)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
 	
