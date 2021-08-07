@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=f4bbbb&height=300&section=header&text=SUJIN%20KIM&fontSize=40)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=f4bbbb&height=300&section=header&text=SUJIN%20KIM&fontSize=40)
 
