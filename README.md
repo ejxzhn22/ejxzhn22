@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ejxzhn22.github.io/)](https://ejxzhn22.github.io/)
+	
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22)](https://github.com/anuraghazra/github-readme-stats)
+
