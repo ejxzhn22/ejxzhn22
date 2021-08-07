@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://camo.githubusercontent.com/0c391b5545096b63cac7def5d0f2eb5c4c43260323d456c2689cc841d2bbdf09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=shark&amp;height=200&amp;text=SUJIN%20KIM&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width:100%;">
+![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=150&section=header&text=SUJIN%20KIM&fontSize=60)
+
 
 <h1 align="center">🌱TECH🌱</h1>
 
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-<img src="https://camo.githubusercontent.com/2d4943deac939925b872b56f5dae84d2f2da502ebabb3da5b51fd6750fef5947/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6175746f266865696768743d3230302673656374696f6e3d666f6f74657226746578743d4e6f772532305573652532306d652126666f6e7453697a653d3930" alt="footer" data-canonical-src="https://capsule-render.vercel.app/api?type=wave&amp;color=f4bbbb&amp;height=200&amp;section=footer&amp;fontSize=90" style="max-width:100%;">
+
