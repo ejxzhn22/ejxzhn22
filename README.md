@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=150&section=header&text=SUJIN%20KIM&fontSize=40)
 
-
 <h1 align="center">🌱TECH🌱</h1>
 
 <p align="center">
@@ -37,5 +36,4 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=f4bbbb&height=300&section=header&text=SUJIN%20KIM&fontSize=40)
-
+<img src="https://camo.githubusercontent.com/2d4943deac939925b872b56f5dae84d2f2da502ebabb3da5b51fd6750fef5947/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d6175746f266865696768743d3230302673656374696f6e3d666f6f74657226746578743d4e6f772532305573652532306d652126666f6e7453697a653d3930" alt="footer" data-canonical-src="https://capsule-render.vercel.app/api?type=wave&amp;color=auto&amp;height=200&amp;section=footer&amp;text=Now%20Use%20me!&amp;fontSize=90" style="max-width:100%;">
