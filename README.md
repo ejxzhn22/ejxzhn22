@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
-<p align="center"> Hi! 👋 </p>
-<p align="center">🌱TECH🌱</p>
+<h3 align="center"> Hi! 👋 </h3>
+<h3 align="center">🌱TECH🌱</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
