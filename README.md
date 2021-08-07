@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=flag-india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejxzhn22&theme=monokai)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22&theme=flag-india&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejxzhn22&theme=monokai&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=solarized-light2&theme=flag-india)](https://github.com/ejxzhn22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejxzhn22&layout=solarized-light2&theme=monokai)](https://github.com/ejxzhn22/github-readme-stats)
 
 
 
