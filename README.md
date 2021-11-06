@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 &nbsp<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </p>
 
-<br><br>
+<br><br><br><br>
 <p align="center"> 
   
   <h4 align="center">🌼팀프로젝트 잇주 AWS 주소 : http://54.180.255:8000 </h4>
