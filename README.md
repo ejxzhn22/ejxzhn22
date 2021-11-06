@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 &nbsp<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </p>
 
-
+<br><br>
 <p align="center"> 
   
-  <h3 align="center">🌼팀프로젝트 잇주 AWS 주소 : http://54.180.255:8000 </h3>
-  <h3 align="center">🌷개인프로젝트 stargram AWS 주소 : http://13.125.198.77:8000 </h3>
+  <h4 align="center">🌼팀프로젝트 잇주 AWS 주소 : http://54.180.255:8000 </h4>
+  <h4 align="center">🌷개인프로젝트 stargram AWS 주소 : http://13.125.198.77:8000 </h4>
 
 
 </p>
