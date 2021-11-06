@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 </p>
 
 
+<p align="center"> 
+  
+  <h2>🌼팀프로젝트 잇주 AWS 주소 : http://54.180.255:8000 </h2>
+  <h2>🌷개인프로젝트 stargram AWS 주소 : http://13.125.198.77:8000 </h2>
+
+
+</p>
+
+
 <br> 
 
 <h3 align="center">✨CONTACT✨</h3>
