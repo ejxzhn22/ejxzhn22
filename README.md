@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨CONTACT✨</h3>
 <p align="center">
-  <a href="https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"><img src="https://img.shields.io/badge/NOTION-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"/></a>
+  <a href="https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"/></a>
 &nbsp
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/tistory-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
 &nbsp
