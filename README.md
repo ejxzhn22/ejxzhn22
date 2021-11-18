@@ -49,20 +49,19 @@ Here are some ideas to get you started:
 
 <h3 align="center">✨CONTACT✨</h3>
 <p align="center">
- 
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/tistory-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
 &nbsp
-<a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/NAVER-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>&nbsp
-  <a href="https://nijus299@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://nijus299@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/NAVER-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>
+&nbsp
+<a href="https://nijus299@gmail.com">
+  <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://nijus299@gmail.com" style="height :auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
 </p>
 
 
-
-
 <br><br><br>
+
+
 <div align="center">
 
 [![](https://raw.githubusercontent.com/ejxzhn22/ejxzhn22/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
