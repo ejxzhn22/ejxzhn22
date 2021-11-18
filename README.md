@@ -38,13 +38,18 @@ Here are some ideas to get you started:
 
 </p>
 
+<br> <br><br>
+<h3 align="center">🌈PORTFOLIO📑</h3>
+<p align="center">
+   <a href="https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"/></a>
+&nbsp
+</p>
 
 <br> <br><br>
 
 <h3 align="center">✨CONTACT✨</h3>
 <p align="center">
-  <a href="https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"/></a>
-&nbsp
+ 
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/tistory-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
 &nbsp
 <a href="mailto:jink9525@naver.com"><img src="https://img.shields.io/badge/NAVER-00A95C?style=flat-square&logo=NAVER&logoColor=white&link=jink9525@naver.com"/></a>&nbsp
@@ -53,6 +58,9 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
+
+
+
 
 <br><br><br>
 <div align="center">
