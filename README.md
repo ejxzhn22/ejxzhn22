@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br> <br><br>
 <h3 align="center">🌈PORTFOLIO📑</h3>
 <p align="center">
-   <a href="https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/sujin-life-board/0586db381613416c9ee76ee22279dd89"/></a>
+   <a href="https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"/></a>
 &nbsp
 </p>
 
