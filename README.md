@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 <br> <br><br>
-<h3 align="center">🌈PORTFOLIO📑</h3>
+<h2 align="center">🌈PORTFOLIO📑</h2>
 <p align="center">
    <a href="https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"/></a>
 &nbsp
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br> <br>
 
-<h3 align="center">✨CONTACT✨</h3>
+<h2 align="center">✨CONTACT✨</h2>
 <p align="center">
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/tistory-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
 &nbsp
