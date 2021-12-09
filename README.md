@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--![header](https://capsule-render.vercel.app/api?type=shark&color=f4bbbb&height=130&section=header)
 -->
 <h1>  SUJIN 🌼 </h1>
-<br> 
+<!-- <br> 
 <h3 align="center">🌱MY SKILLS🌱</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 &nbsp<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 &nbsp<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-</p>
+</p> -->
 
 <br><br><br>
 <p align="center"> 
