@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <p align="center"> 
   
   <h3 align="center">🌼팀프로젝트 ITJunior 잇주 AWS 주소 : http://54.180.2.255:8000 </h3>
-  <h3 align="center">🌷개인프로젝트 Stargram AWS 주소 : http://13.125.198.77:8000 </h3>
 
 
 </p>
