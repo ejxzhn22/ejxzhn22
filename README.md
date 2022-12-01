@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 -->
 <br> <br>
-
+<!--
 <h3 align="center">✨CONTACT✨</h3>
 <p align="center">
 <a href="https://sujin-k.tistory.com"><img src="https://img.shields.io/badge/tistory-FECC00?style=flat-square&logo=Vimeo&logoColor=white&link=https://sujin-k.tistory.com"/></a>
