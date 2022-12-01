@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br><br><br>
 <p align="center"> 
   
-  <h3 align="center">🌼팀프로젝트 ITJunior 잇주 AWS 주소 : http://54.180.2.255:8000 </h3>
+ <!-- <h3 align="center">🌼팀프로젝트 ITJunior 잇주 AWS 주소 : http://54.180.2.255:8000 </h3>
 
 
 </p>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
    <a href="https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"><img src="https://img.shields.io/badge/NOTION-24292f?style=flat-square&logo=Notion&logoColor=white&link=https://sujin-life-board.notion.site/eb1e920ae59d45ba8a4fddacc29023c9"/></a>
 &nbsp
 </p>
-
+-->
 <br> <br>
 
 <h3 align="center">✨CONTACT✨</h3>
